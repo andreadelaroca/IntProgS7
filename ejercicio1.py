@@ -8,5 +8,4 @@ while True:
 
 for i in range(1,n+1):
     resultado = n + i
-    
     print(f"{n} + {i} = {resultado}")
