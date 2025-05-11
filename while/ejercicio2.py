@@ -11,7 +11,7 @@ producto = 1
 
 while contador < m:
     producto *= par
-    par += 2
-    contador += 1
+    par += 2 
+    contador += 1 
     
 print(f"El producto de los primeros {m} números pares es: {producto}")
