@@ -12,4 +12,3 @@ while True:
         break
     else:
         print("La contraseña es inválida")
-

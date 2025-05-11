@@ -11,4 +11,3 @@ for i in range(1,11):
     print(f"Suma parcial después de agregar {i}: {suma}")
     
 print(f"\nExpresión: {expresion} = {suma}")
-
